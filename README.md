@@ -7,9 +7,8 @@
 ![Flutter](https://img.shields.io/badge/-DataScience-090909?style=flat-square&logo=appveyor)
 
 ### Connect with me:
-![Flutter](https://img.shields.io/badge/-Facebook-090909?style=flat-square&logo=facebook)
-![Flutter](https://img.shields.io/badge/-Vkontakte-090909?style=flat-square&logo=vk)
-![Flutter](https://img.shields.io/badge/-Twitter-090909?style=flat-square&logo=twitter)
-![Flutter](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=telegram)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=1195F5)](https://vk.com/dimkjk)
+[!Twitter](https://img.shields.io/badge/-Twitter-090909?style=flat-square&logo=twitter)
+[!Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=telegram)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Puzyrinwrk&show_icons=true)](https://github.com/Puzyrinwrk/github-readme-stats)
