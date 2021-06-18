@@ -11,3 +11,5 @@
 ![Flutter](https://img.shields.io/badge/-Vkontakte-090909?style=flat-square&logo=vk)
 ![Flutter](https://img.shields.io/badge/-Twitter-090909?style=flat-square&logo=twitter)
 ![Flutter](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=telegram)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Puzyrinwrk&show_icons=true)](https://github.com/Puzyrinwrk/github-readme-stats)
