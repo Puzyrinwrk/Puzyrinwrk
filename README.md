@@ -6,7 +6,7 @@
 ![Flutter](https://img.shields.io/badge/-SQL-090909?style=flat-square&logo=mysql)
 ![Flutter](https://img.shields.io/badge/-DataScience-090909?style=flat-square&logo=appveyor)
 
-###Connect with me:
+### Connect with me:
 ![Flutter](https://img.shields.io/badge/-Facebook-090909?style=flat-square&logo=facebook)
 ![Flutter](https://img.shields.io/badge/-Vkontakte-090909?style=flat-square&logo=vk)
 ![Flutter](https://img.shields.io/badge/-Twitter-090909?style=flat-square&logo=twitter)
