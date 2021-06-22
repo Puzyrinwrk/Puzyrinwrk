@@ -3,7 +3,7 @@
 ### Languages and tools:
 ![](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=1195F5)
 ![](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=1195F5)
-![](https://img.shields.io/badge/-Flask/Django-090909?style=for-the-badge&logo=django&logoColor=1195F5)
+![](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask&logoColor=1195F5)
 ![](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=1195F5)
 ![](https://img.shields.io/badge/-Data_Science-090909?style=for-the-badge&logo=appveyor&logoColor=1195F5)
 
