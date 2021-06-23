@@ -13,4 +13,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=1195F5)](https://t.me/TrapDD)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Puzyrinwrk&show_icons=true)](https://github.com/Puzyrinwrk/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Puzyrinwrk&show_icons=true&theme=radical)](https://github.com/Puzyrinwrk/github-readme-stats)
