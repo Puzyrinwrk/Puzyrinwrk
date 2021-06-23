@@ -1,7 +1,7 @@
 # Junior Python Developer
 
 ### Languages and tools:
-![](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=1195F5)
+![](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=1195F5) 
 ![](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=1195F5)
 ![](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=1195F5)
 ![](https://img.shields.io/badge/-Data_Science-090909?style=for-the-badge&logo=appveyor&logoColor=1195F5)
@@ -14,3 +14,5 @@
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Puzyrinwrk&show_icons=true&theme=radical)](https://github.com/Puzyrinwrk/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzyrinwrk&theme=radical)](https://github.com/Puzyrinwrk/github-readme-stats)
