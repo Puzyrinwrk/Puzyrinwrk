@@ -1,4 +1,4 @@
-# Junior Python Developer
+# Python Developer
 
 ### Languages and tools:
 ![](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=1195F5) 
